@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mtsta"]
+	path = mtsta
+	url = https://github.com/paulesantos/mtsta
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/paulesantos/peruflorads43
