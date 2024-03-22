@@ -5,6 +5,9 @@
 [submodule "avesperu"]
 	path = avesperu
 	url = https://github.com/paulesantos/avesperu
+[submodule "geoperu"]
+	path = geoperu
+	url = https://github.com/paulesantos/geoperu
 [submodule "mtsta"]
 	path = mtsta
 	url = https://github.com/paulesantos/mtsta
