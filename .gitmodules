@@ -8,6 +8,9 @@
 [submodule "geoperu"]
 	path = geoperu
 	url = https://github.com/paulesantos/geoperu
+[submodule "iucnr"]
+	path = iucnr
+	url = https://github.com/paulesantos/iucnr
 [submodule "mtsta"]
 	path = mtsta
 	url = https://github.com/paulesantos/mtsta
