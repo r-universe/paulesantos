@@ -26,3 +26,6 @@
 [submodule "redbookperu"]
 	path = redbookperu
 	url = https://github.com/paulesantos/redbookperu
+[submodule "reptiledb.data"]
+	path = reptiledb.data
+	url = https://github.com/paulesantos/reptiledb.data
