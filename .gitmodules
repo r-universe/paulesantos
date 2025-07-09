@@ -29,3 +29,6 @@
 [submodule "reptiledb.data"]
 	path = reptiledb.data
 	url = https://github.com/paulesantos/reptiledb.data
+[submodule "reptiledbr"]
+	path = reptiledbr
+	url = https://github.com/paulesantos/reptiledbr
