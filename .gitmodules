@@ -17,6 +17,9 @@
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/paulesantos/peruflorads43
+[submodule "perumammals"]
+	path = perumammals
+	url = https://github.com/paulesantos/perumammals
 [submodule "perutimber"]
 	path = perutimber
 	url = https://github.com/paulesantos/perutimber
