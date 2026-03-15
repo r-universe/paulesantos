@@ -1,40 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/paulesantos/paulesantos.r-universe.dev
 	branch = HEAD
 [submodule "avesperu"]
 	path = avesperu
-	url = https://github.com/paulesantos/avesperu
-[submodule "fuzzystring"]
-	path = fuzzystring
-	url = https://github.com/paulesantos/fuzzystring
-[submodule "geoperu"]
-	path = geoperu
-	url = https://github.com/paulesantos/geoperu
-[submodule "iucnr"]
-	path = iucnr
-	url = https://github.com/cran/iucnr
-[submodule "mtsta"]
-	path = mtsta
-	url = https://github.com/paulesantos/mtsta
-[submodule "peruflorads43"]
-	path = peruflorads43
-	url = https://github.com/paulesantos/peruflorads43
+	url = https://github.com/PaulESantos/avesperu
 [submodule "perumammals"]
 	path = perumammals
-	url = https://github.com/paulesantos/perumammals
-[submodule "perutimber"]
-	path = perutimber
-	url = https://github.com/paulesantos/perutimber
-[submodule "ppendemic"]
-	path = ppendemic
-	url = https://github.com/paulesantos/ppendemic
-[submodule "redbookperu"]
-	path = redbookperu
-	url = https://github.com/paulesantos/redbookperu
-[submodule "reptiledb.data"]
-	path = reptiledb.data
-	url = https://github.com/paulesantos/reptiledb.data
-[submodule "reptiledbr"]
-	path = reptiledbr
-	url = https://github.com/paulesantos/reptiledbr
+	url = https://github.com/PaulESantos/perumammals
+[submodule "rmdd"]
+	path = rmdd
+	url = https://github.com/PaulESantos/rmdd
+[submodule "wcvpdata"]
+	path = wcvpdata
+	url = https://github.com/PaulESantos/wcvpdata
+[submodule "wcvpmatch"]
+	path = wcvpmatch
+	url = https://github.com/PaulESantos/wcvpmatch
