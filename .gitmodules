@@ -5,12 +5,33 @@
 [submodule "avesperu"]
 	path = avesperu
 	url = https://github.com/PaulESantos/avesperu
+[submodule "fuzzystring"]
+	path = fuzzystring
+	url = https://github.com/PaulESantos/fuzzystring
+[submodule "peruflorads43"]
+	path = peruflorads43
+	url = https://github.com/PaulESantos/peruflorads43
 [submodule "perumammals"]
 	path = perumammals
 	url = https://github.com/PaulESantos/perumammals
+[submodule "ppendemic"]
+	path = ppendemic
+	url = https://github.com/PaulESantos/ppendemic
+[submodule "redbookperu"]
+	path = redbookperu
+	url = https://github.com/PaulESantos/redbookperu
+[submodule "reptiledbr"]
+	path = reptiledbr
+	url = https://github.com/PaulESantos/reptiledbr
 [submodule "rmdd"]
 	path = rmdd
 	url = https://github.com/PaulESantos/rmdd
+[submodule "rsdot"]
+	path = rsdot
+	url = https://github.com/PaulESantos/rsdot
+[submodule "ttmoment"]
+	path = ttmoment
+	url = https://github.com/PaulESantos/ttmoment
 [submodule "wcvpdata"]
 	path = wcvpdata
 	url = https://github.com/PaulESantos/wcvpdata
