@@ -29,9 +29,9 @@
 [submodule "rsdot"]
 	path = rsdot
 	url = https://github.com/PaulESantos/rsdot
-[submodule "ttmoment"]
-	path = ttmoment
-	url = https://github.com/PaulESantos/ttmoment
+[submodule "tidyttmoment"]
+	path = tidyttmoment
+	url = https://github.com/PaulESantos/tidyttmoment
 [submodule "wcvpdata"]
 	path = wcvpdata
 	url = https://github.com/PaulESantos/wcvpdata
