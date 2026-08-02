@@ -8,6 +8,12 @@
 [submodule "fuzzystring"]
 	path = fuzzystring
 	url = https://github.com/PaulESantos/fuzzystring
+[submodule "iucnr"]
+	path = iucnr
+	url = https://github.com/PaulESantos/iucnr
+[submodule "iucnrdata"]
+	path = iucnrdata
+	url = https://github.com/PaulESantos/iucnrdata
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/PaulESantos/peruflorads43
